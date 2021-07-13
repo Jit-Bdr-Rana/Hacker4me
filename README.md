@@ -6,4 +6,4 @@
  <h1>https://gitlab.com/jitu1234687/hackforme</h1>
  
  ## gitlab repo shot
-![](contact.PNG)
+![](Capture.PNG)
